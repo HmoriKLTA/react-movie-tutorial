@@ -1,3 +1,5 @@
+import "../css/Favorites.css";
+
 const favorite =() => {
     return <div className="favorites-empty">
         <h2>No Favourite Movies Yet</h2>
